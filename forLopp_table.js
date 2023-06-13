@@ -7,7 +7,7 @@ const product = (n) => {
        console.log(product)
         
     }
-
+//jkljkljkljkljkljlkjkljkl
 
 
 }
